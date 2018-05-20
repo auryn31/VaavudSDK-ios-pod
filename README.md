@@ -15,6 +15,7 @@ This is a Pod for Vaavud-SDK from https://github.com/vaavud/vaavud-ios-sdk
 
 Its available with cocapods. The swift version is 3.3
 You have to set the swift language versuin in build setting to 3.3 
+The response is in m/s
 
 ## Installation
 
