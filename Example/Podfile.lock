@@ -1,0 +1,33 @@
+PODS:
+  - RxBluetoothKit (3.1.2):
+    - RxSwift (~> 3.2)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+  - VaavudSDK (0.1.0):
+    - RxBluetoothKit (~> 3.0)
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+
+DEPENDENCIES:
+  - VaavudSDK (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxBluetoothKit
+    - RxCocoa
+    - RxSwift
+
+EXTERNAL SOURCES:
+  VaavudSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RxBluetoothKit: 03cd96e38e8239e1c50ce7068f343730aad9372a
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  VaavudSDK: 014b5324219f6c2ce3cab2783b819cb74fed54ca
+
+PODFILE CHECKSUM: 087ac26a2b21b31e7cf62f46ab1a8d62b6ca43e1
+
+COCOAPODS: 1.5.2

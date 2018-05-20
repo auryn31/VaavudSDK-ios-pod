@@ -1,0 +1,6 @@
+framework module VaavudSDK {
+  umbrella header "VaavudSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

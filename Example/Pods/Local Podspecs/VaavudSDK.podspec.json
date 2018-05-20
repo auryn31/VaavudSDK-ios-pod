@@ -1,0 +1,33 @@
+{
+  "name": "VaavudSDK",
+  "version": "0.1.0",
+  "summary": "VaavudSDK.",
+  "description": "Ein Vaavud Pod SDK",
+  "homepage": "https://github.com/auryn31/vaavud-ios-sdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "auryn31": "auryn31@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/auryn31/vaavud-ios-sdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VaavudSDK/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "~> 3.0"
+    ],
+    "RxCocoa": [
+      "~> 3.0"
+    ],
+    "RxBluetoothKit": [
+      "~> 3.0"
+    ]
+  }
+}
