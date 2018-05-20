@@ -22,13 +22,9 @@ VaavudSDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'VaavudSDK'
+pod 'VaavudSDK', :git => 'https://github.com/auryn31/VaavudSDK-ios-pod.git'
 ```
 
 ## Author
 
-auryn31, auryn31@icloud.com
-
-## License
-
-VaavudSDK is available under the MIT license. See the LICENSE file for more info.
+[Vaavud](https://github.com/vaavud/vaavud-ios-sdk)
