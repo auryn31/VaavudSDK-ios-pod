@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VaavudSDK_Example' do
+  pod 'VaavudSDK', :path => '../'
+
+  target 'VaavudSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
